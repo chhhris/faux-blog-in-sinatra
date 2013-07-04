@@ -9,5 +9,4 @@ class CreateStudents < ActiveRecord::Migration
   def down
     drop_table :students
   end
-
 end
